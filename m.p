@@ -6,10 +6,10 @@ import os
 import re
 
 # insert your Telegram bot token here
-bot = telebot.TeleBot("8652411411:AAEd2NjVOSAPUcfRMMp02MgXv76Kznb6VU4")
+bot = telebot.TeleBot("8297315508:AAG08X5rUQ01w6QhWpCQhggFVVJoGRKhqoA")
 
 # Admin user IDs
-admin_id = ["7178871598"]
+admin_id = ["7537581754"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
